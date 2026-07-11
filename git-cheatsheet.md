@@ -1,3 +1,8 @@
+---
+title: "Git Cheatsheet"
+layout: default
+---
+
 # Git Cheatsheet
 
 ## Daftar Isi
