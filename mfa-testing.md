@@ -1,3 +1,8 @@
+---
+title: "Checklist Pengujian Keamanan MFA/2FA"
+layout: default
+---
+
 # Checklist Pengujian Keamanan MFA/2FA
 
 > Panduan pengujian keamanan untuk menemukan kelemahan pada implementasi Multi-Factor Authentication (MFA) / Two-Factor Authentication (2FA) dalam aplikasi web.
