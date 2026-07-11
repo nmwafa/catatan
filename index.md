@@ -1,5 +1,4 @@
 ---
-title: Table of contents
 layout: home
 ---
 
