@@ -1,4 +1,9 @@
-# Hardening Web Server: Apache & Nginx di Ubuntu Linux
+---
+title: "Hardening Web Server di ubuntu"
+layout: default
+---
+
+# Hardening Web Server di Ubuntu
 
 **Versi:** 1.2
 
