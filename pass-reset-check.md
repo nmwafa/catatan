@@ -1,3 +1,8 @@
+---
+title: "Password Reset Vulnerability Checklist"
+layout: default
+---
+
 # Password Reset Vulnerability Checklist
 
 Berdasarkan artikel oleh **Omer Hesham** dan berbagai sumber *bug bounty*.
