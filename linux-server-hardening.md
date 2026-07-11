@@ -1,3 +1,8 @@
+---
+title: "Linux Server Hardening - Debian Based"
+layout: default
+---
+
 # Linux Server Hardening — *Debian based*
 
 ## Daftar isi:
