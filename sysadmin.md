@@ -1,3 +1,8 @@
+---
+title: "Linux SysAdmin Cheatsheet"
+layout: default
+---
+
 # Linux SysAdmin Cheatsheet
 
 Essential Commands, Scripts & Troubleshooting Guide
