@@ -1,4 +1,9 @@
-# Check List Mitigasi Ransomware
+---
+title: "Checklist Mitigasi Ransomware"
+layout: default
+---
+
+# Checklist Mitigasi Ransomware
 
 >Sumber: [eucyberacademy.com](https://drive.google.com/file/d/1gUqLR4zCjOT_S0eBXQDH1z0xMEGuJaby/view?usp=sharing)
 
