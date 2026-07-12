@@ -4,5 +4,5 @@ layout: home
 
 <img src="./dino.gif">
 
-# ini mau diisi apa yah?
+# Catch me if you can XD
 
